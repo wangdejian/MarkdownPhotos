@@ -1,2 +1,2 @@
 # MarkdownPhotos
-strore imgs formarkdown
+strore imgs for markdown
